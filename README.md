@@ -2,6 +2,8 @@
 
 🚀 **Introduction**
 
+Walkthrough video : https://www.youtube.com/watch?v=oh_fhXD4dAw
+
 EtherEase addresses the challenges faced by non-technical users and freelancing teams in adopting Web 3.0 technologies and tokenizing their personal and public assets. Our platform offers a user-friendly interface that simplifies the tokenization process, eliminates technical jargon, enhances security, and reduces development timelines.
 
 ![hero](https://github.com/Keshav-0907/etherEase/assets/91189139/3cae39de-fdf7-4244-aeca-9a24edd42410)
